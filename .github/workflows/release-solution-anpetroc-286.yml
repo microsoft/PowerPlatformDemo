@@ -1,4 +1,4 @@
-name: release-solution-win
+name: release-solution-win-anpetroc-286
 # prepare for releasing to prod:
 #   convert solution to managed (using a build PowerPlatform environment for the conversion)
 #   upload the solution to the GitHub artifacts and deploy to the PROD environment
