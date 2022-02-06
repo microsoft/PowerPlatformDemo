@@ -41,7 +41,7 @@ env:
 
 jobs:
   convert-to-managed:
-    runs-on: windows-latest, anpetroc, 2.287.1
+    runs-on: anpetroc, 2.287.1
 
     env:
       RUNNER_DEBUG: 1
