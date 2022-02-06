@@ -41,7 +41,7 @@ env:
 
 jobs:
   convert-to-managed:
-    runs-on: anpetroc, 2.287.1
+    runs-on: self-hosted, windows, x64, anpetroc, 2.287.1
 
     env:
       RUNNER_DEBUG: 1
