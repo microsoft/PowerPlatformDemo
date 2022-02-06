@@ -41,9 +41,8 @@ env:
 
 jobs:
   convert-to-managed:
-    #runs-on: ubuntu-latest
-    runs-on: windows-latest
-    # or you can say runs-on: ubuntu-latest
+    runs-on: windows-latest, anpetroc, 2.286.1
+
     env:
       RUNNER_DEBUG: 1
 
