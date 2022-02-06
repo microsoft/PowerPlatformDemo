@@ -1,0 +1,13 @@
+<environmentvariabledefinition schemaname="dev_kvTesting">
+  <description default="Azure KeyVault testin">
+    <label description="Azure KeyVault testin" languagecode="1033" />
+  </description>
+  <displayname default="kvTesting">
+    <label description="kvTesting" languagecode="1033" />
+  </displayname>
+  <introducedversion>1.0.0.5</introducedversion>
+  <iscustomizable>1</iscustomizable>
+  <isrequired>0</isrequired>
+  <secretstore>0</secretstore>
+  <type>100000005</type>
+</environmentvariabledefinition>

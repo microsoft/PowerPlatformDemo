@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "/workspaces/PowerPlatformIgnite2021/solutions/DevIntersect/DevIntersect.cdsproj": {}
+  },
+  "projects": {
+    "/workspaces/PowerPlatformIgnite2021/solutions/DevIntersect/DevIntersect.cdsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/workspaces/PowerPlatformIgnite2021/solutions/DevIntersect/DevIntersect.cdsproj",
+        "projectName": "DevIntersect",
+        "projectPath": "/workspaces/PowerPlatformIgnite2021/solutions/DevIntersect/DevIntersect.cdsproj",
+        "packagesPath": "/var/nuget",
+        "outputPath": "/workspaces/PowerPlatformIgnite2021/solutions/DevIntersect/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Solution": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

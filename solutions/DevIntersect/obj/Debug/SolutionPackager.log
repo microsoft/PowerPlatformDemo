@@ -1,0 +1,63 @@
+2022-01-28 00:32:05.887 - Info	
+Packing /workspaces/PowerPlatformIgnite2021/solutions/DevIntersect/obj/Debug/Metadata to bin/Debug/DevIntersect.zip
+
+2022-01-28 00:32:05.898 - Info	Processing Component: Entities
+2022-01-28 00:32:05.901 - Info	Processing Component: Roles
+2022-01-28 00:32:05.907 - Info	Processing Component: Workflows
+2022-01-28 00:32:05.911 - Info	 - Button -> Perform an unbound action
+2022-01-28 00:32:05.912 - Info	Processing Component: FieldSecurityProfiles
+2022-01-28 00:32:05.912 - Info	Processing Component: Templates
+2022-01-28 00:32:05.913 - Info	Processing Component: EntityMaps
+2022-01-28 00:32:05.913 - Info	Processing Component: EntityRelationships
+2022-01-28 00:32:05.915 - Info	Processing Component: OrganizationSettings
+2022-01-28 00:32:05.916 - Info	Processing Component: optionsets
+2022-01-28 00:32:05.916 - Info	Processing Component: CustomControls
+2022-01-28 00:32:05.918 - Info	Processing Component: EntityDataProviders
+2022-01-28 00:32:05.918 - Info	Processing Component: CanvasApps
+2022-01-28 00:32:05.921 - Info	 - dev_pictureoftheday_fc8e8
+2022-01-28 00:32:05.922 - Info	 - dev_testing123_f1a6e
+2022-01-28 00:32:05.962 - Info	
+Unmanaged Pack complete.
+
+2022-01-28 00:40:11.184 - Info	
+Packing /workspaces/PowerPlatformIgnite2021/solutions/DevIntersect/obj/Debug/Metadata to bin/Debug/DevIntersect.zip
+
+2022-01-28 00:40:11.196 - Info	Processing Component: Entities
+2022-01-28 00:40:11.199 - Info	Processing Component: Roles
+2022-01-28 00:40:11.206 - Info	Processing Component: Workflows
+2022-01-28 00:40:11.210 - Info	 - Button -> Perform an unbound action
+2022-01-28 00:40:11.212 - Info	Processing Component: FieldSecurityProfiles
+2022-01-28 00:40:11.212 - Info	Processing Component: Templates
+2022-01-28 00:40:11.213 - Info	Processing Component: EntityMaps
+2022-01-28 00:40:11.213 - Info	Processing Component: EntityRelationships
+2022-01-28 00:40:11.215 - Info	Processing Component: OrganizationSettings
+2022-01-28 00:40:11.216 - Info	Processing Component: optionsets
+2022-01-28 00:40:11.216 - Info	Processing Component: CustomControls
+2022-01-28 00:40:11.218 - Info	Processing Component: EntityDataProviders
+2022-01-28 00:40:11.218 - Info	Processing Component: CanvasApps
+2022-01-28 00:40:11.223 - Info	 - dev_pictureoftheday_fc8e8
+2022-01-28 00:40:11.223 - Info	 - dev_testing123_f1a6e
+2022-01-28 00:40:11.267 - Info	
+Unmanaged Pack complete.
+
+2022-01-28 00:41:30.852 - Info	
+Packing /workspaces/PowerPlatformIgnite2021/solutions/DevIntersect/obj/Debug/Metadata to bin/Debug/DevIntersect.zip
+
+2022-01-28 00:41:30.863 - Info	Processing Component: Entities
+2022-01-28 00:41:30.866 - Info	Processing Component: Roles
+2022-01-28 00:41:30.874 - Info	Processing Component: Workflows
+2022-01-28 00:41:30.879 - Info	 - Button -> Perform an unbound action
+2022-01-28 00:41:30.881 - Info	Processing Component: FieldSecurityProfiles
+2022-01-28 00:41:30.881 - Info	Processing Component: Templates
+2022-01-28 00:41:30.882 - Info	Processing Component: EntityMaps
+2022-01-28 00:41:30.882 - Info	Processing Component: EntityRelationships
+2022-01-28 00:41:30.885 - Info	Processing Component: OrganizationSettings
+2022-01-28 00:41:30.885 - Info	Processing Component: optionsets
+2022-01-28 00:41:30.886 - Info	Processing Component: CustomControls
+2022-01-28 00:41:30.888 - Info	Processing Component: EntityDataProviders
+2022-01-28 00:41:30.888 - Info	Processing Component: CanvasApps
+2022-01-28 00:41:30.892 - Info	 - dev_pictureoftheday_fc8e8
+2022-01-28 00:41:30.893 - Info	 - dev_testing123_f1a6e
+2022-01-28 00:41:30.935 - Info	
+Unmanaged Pack complete.
+

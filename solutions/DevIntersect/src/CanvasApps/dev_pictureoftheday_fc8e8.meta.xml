@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>dev_pictureoftheday_fc8e8</Name>
+  <AppVersion>2021-12-07T23:27:37Z</AppVersion>
+  <Status>Ready</Status>
+  <CreatedByClientVersion>3.21112.22.0</CreatedByClientVersion>
+  <MinClientVersion>3.21112.22.0</MinClientVersion>
+  <Tags>{"primaryDeviceWidth":"640","primaryDeviceHeight":"1136","sienaVersion":"26444e6f-99bc-4f2c-bbf3-dd46cf52bb31","deviceCapabilities":"","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Phone","publisherVersion":"3.21112.22","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false"}</Tags>
+  <IsCdsUpgraded>0</IsCdsUpgraded>
+  <GalleryItemId xsi:nil="true"></GalleryItemId>
+  <BackgroundColor>RGBA(0,176,240,1)</BackgroundColor>
+  <DisplayName>pictureoftheday</DisplayName>
+  <Description xsi:nil="true"></Description>
+  <CommitMessage xsi:nil="true"></CommitMessage>
+  <Publisher xsi:nil="true"></Publisher>
+  <AuthorizationReferences>[]</AuthorizationReferences>
+  <ConnectionReferences>{"29376d3c-5190-443c-a520-c1013032a6f8":{"id":"/providers/microsoft.powerapps/apis/shared_nasapicoftheday-5fbdd99d0ae8f9f3b7-5f85c03c306ebc7a73","displayName":"nasapicoftheday","iconUri":"https://prodapiicons.cdn.powerappscdn.net/20211207t000000zec57a1d093c74e1c85d2675aaaa9b61a/customconnectoricon.png","dataSources":["nasapicoftheday"],"dependencies":[],"dependents":[],"parameterHints":{},"parameterHintsV2":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Standard","actions":["GetPicture"],"isCustomApiSolutionAware":false}}</ConnectionReferences>
+  <DatabaseReferences>{}</DatabaseReferences>
+  <AppComponents>[]</AppComponents>
+  <AppComponentDependencies>[]</AppComponentDependencies>
+  <CanConsumeAppPass>1</CanConsumeAppPass>
+  <CanvasAppType>0</CanvasAppType>
+  <BypassConsent>0</BypassConsent>
+  <AdminControlBypassConsent>0</AdminControlBypassConsent>
+  <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <CdsDependencies>{"cdsdependencies":[]}</CdsDependencies>
+  <IsCustomizable>1</IsCustomizable>
+  <BackgroundImageUri>/CanvasApps/dev_pictureoftheday_fc8e8_BackgroundImageUri</BackgroundImageUri>
+  <DocumentUri>/CanvasApps/dev_pictureoftheday_fc8e8_DocumentUri.msapp</DocumentUri>
+</CanvasApp>

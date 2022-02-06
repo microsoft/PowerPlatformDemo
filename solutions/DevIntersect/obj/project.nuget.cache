@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RKyyl8W2n0pm4NUmNhHVfRu0dZifVF4scz96sadPjt+EgV1ilDHKsP6E4nGUzUWjN1kNZ0o+NN8KPB35Fo5wDA==",
+  "success": true,
+  "projectFilePath": "/workspaces/PowerPlatformIgnite2021/solutions/DevIntersect/DevIntersect.cdsproj",
+  "expectedPackageFiles": [
+    "/var/nuget/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/var/nuget/microsoft.netframework.referenceassemblies.net462/1.0.0/microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "/var/nuget/microsoft.powerapps.msbuild.solution/1.11.3/microsoft.powerapps.msbuild.solution.1.11.3.nupkg.sha512"
+  ],
+  "logs": []
+}
